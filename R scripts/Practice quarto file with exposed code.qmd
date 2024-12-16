@@ -1,0 +1,61 @@
+---
+title: "TRANSCRIPTOMICS"
+author: "Billy Ojuka"
+format: html
+editor: visual
+execute: 
+  echo: false
+embed-resources: true
+---
+
+### Ribosomes
+
+The ribosome is composed of a large and small subunit both made up of ribosomal RNA molecules and a variable number of ribosomal proteins. More information on the constituent components of the ribosome and its molecular mechanisms can be found here: [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6402506/#:\~:text=Ribosomes%20contain%20two%20different%20subunits,eukaryotes)%20catalyzes%20peptide%20bond%20formation.https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6402506/#:\~:text=Ribosomes%20contain%20two%20different%20subunits,eukaryotes)%20catalyzes%20peptide%20bond%20formation.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6402506/#:~:text=Ribosomes%20contain%20two%20different%20subunits,eukaryotes)%20catalyzes%20peptide%20bond%20formation.)
+
+## Multi-cellular and Uni-cellular ribosomes
+
+The ribosomes found in eukaryotic cells differ from those found in prokaryotic cells. This is crucial information as this has clinical significance. Eukaryotic cells have the **80S Ribosome** while the prokaryotic cell has the **70S Ribosome**.
+
+# Prokaryotic Ribosome
+
+The figure below shows the molecular constituents of the 70S ribosome.
+
+![](images/IMG_8180.jpg)
+
+*Fig 1: The components of the 70S ribosome.*
+
+# Eukaryotic Ribosome
+
+The figure below shows the constituents of the 80S ribosome.
+
+![](images/IMG_8181.jpg)
+
+*Fig 2: The components of the 80S ribosome.*
+
+## Clinical significance of ribosomes
+
+As mentioned earlier, there is a clinical significance to the difference in the prokaryotic and eukaryotic ribosomes in that, the available treatment options targeting the ribosome differ between eukaryotes (fungi) and prokaryotes (bacteria).
+
+# Clinical interventions through the prokaryotic ribosome
+
+The table below shows the different types of prokaryotic antibiotics available in the market that target either the large or the small ribosomal subunit. By doing that, it effectively inhibits the prokaryotic translation process by either retarding mechanisms in the 30S or the 50S of the ribosome. Retarded translation in the prokaryotic cell means that the uni-cellular organism ie. bacteria, cannot produce the proteins it requires to survive.
+
+```{r}
+Prokaryotic_Antibiotics <- data.frame(Aminoglycosides = c('Gentamicin', 'Streptomycin', 'Neomycin'), Tetracycline = c('Doxycycline', 'Lymecycline', 'Methacycline'))
+Prokaryotic_Antibiotics
+#This table contains examples of antibiotics that target the prokaryotic 30S small ribosomal subunit.
+```
+
+*Table 1: Classes antibiotics that target the 30S small ribosomal subunit.*
+
+```{r}
+Prokaryotic_Antibiotics.1 <- data.frame(Macrolides = c('Azithromycin', 'Erythromycin'))
+Prokaryotic_Antibiotics.1
+#This table contains examples of antibiotics targeting the prokaryotic 50S large ribosomal subunit.
+```
+
+*Table 2: Classes of antibiotics that target the 50S large ribosomal subunit.*
+
+```{r}
+# echo: false
+```
