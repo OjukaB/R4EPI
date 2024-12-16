@@ -1,0 +1,5 @@
+ID   Species     Location Infectivity  
+0001 B.pfeiferri Anyanga  Yes
+0002 B.pfeiferri Kisumu   Yes
+0003 B.sudanica  Kisumu   Yes
+0004 Bulinus     Kisumu   Yes

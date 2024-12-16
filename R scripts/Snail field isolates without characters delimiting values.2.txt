@@ -1,0 +1,4 @@
+ID Species    LocationSize
+001Bulinus    Homabay 34
+002B.pfeiferriHomabay 27
+003Bulinus    Anyanga 9

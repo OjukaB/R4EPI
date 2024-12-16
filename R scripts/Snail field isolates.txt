@@ -1,0 +1,9 @@
+ID Species Location Size Infectivity Av_shell_cm
+01 B.sudanica Kisumu 2 No 2
+02 B.pfeiferri Anyanga 4 Yes 1
+03 Bulinus Kisumu 1 Yes .
+04 B.pfeiferri Homabay 5 No 1
+05 B.sudanica Homabay 10 No 3
+06 Bulinus . 5 Yes 4
+07 Bulinus Anyanga 8 No 3
+08 B.sudanica Anyanga 19 Yes 2

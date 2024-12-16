@@ -1,0 +1,6 @@
+PI,Signature,Field operator,Signature,Notes
+ , , , , 
+SampleID,Snail(Species),Location,Pull Size, 
+0001,B.sudanica,Kisumu,40, 
+0002,Bulinus,Anyanga,23,Not stored in ethanol
+0003,B.pfeiferri,Homabay,69, 

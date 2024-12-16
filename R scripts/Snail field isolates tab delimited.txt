@@ -1,0 +1,5 @@
+ID	Species	Location	Size	Infectivity
+01	B.sudanica	Kisumu	4	Yes
+02	Bulinus	Anyanga	1	Yes
+03	B.pfeiferri	Homabay	6	No
+04	B.sudanica	Anyanga	21	Yes
